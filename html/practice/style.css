@@ -1,0 +1,43 @@
+
+.thumbnail {
+  width: 300px;
+  display: block;
+  border-radius: 11px;
+  border: 2px solid #555;
+  border-color: black; 
+  
+
+}
+
+.thumbnail:hover {
+  cursor: pointer;
+  opacity: 0.8
+}
+
+.thumbnail:active {
+  opacity: 0.4;
+}
+
+.search-bar {
+  display: block;
+  border-color: cyan;
+}
+
+.search-bar:active {
+  border-color: cyan;
+}
+
+.video-title {
+  width: 300px;
+}
+
+
+.div-example {
+  display: inline-block;
+}
+
+.video-preview {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 10px;
+}
